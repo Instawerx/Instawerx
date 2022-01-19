@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Instawerx
+- 👋 Hi, I’m @Instawerx / Tech 115 / VR Dive Bar / Indie Conglomerate
 - 👀 I’m interested in VR/AR and Blockchain
 - 🌱 I’m always learning, however currently focused on Blockchain Development mainly dedicated to DAO and DEFI
 - 💞️ I’m looking to collaborate on several projects that relate.
